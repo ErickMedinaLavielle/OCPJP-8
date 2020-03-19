@@ -1,0 +1,13 @@
+package kyojinIndie.com;
+/*powered by kyojin Indie developer Erick Medina
+ * 
+ * Free software hell yeah!!
+ * */
+public class Main {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
